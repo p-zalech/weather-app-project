@@ -1,0 +1,73 @@
+h1 {
+  line-height: 30px;
+}
+h2 {
+  margin: 15px 0px 0px 0px;
+}
+ul {
+  list-style: none;
+  font-size: 13px;
+  padding-left: 0px;
+}
+form {
+  text-align: left;
+  margin-top: 50px;
+}
+hr {
+  width: 750px;
+  display: block;
+  margin: 0px 15px 20px 30px;
+}
+.app-wrapper {
+  width: 850px;
+  border: 4px solid #c047d1;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+  display: block;
+  margin: 40px auto;
+  padding: 0px 10px 15px 10px;
+}
+.main-image {
+  width: 200px;
+}
+.main-degree {
+  font-size: 50px;
+}
+.current-time {
+  font-size: 17px;
+  font-weight: bold;
+}
+.weather-description {
+  font-weight: bold;
+}
+.city-search {
+  width: 200px;
+  font-size: 20px;
+}
+.search-button {
+  width: 50px;
+  font-size: 20px;
+}
+.currentLocation {
+  margin: 15px 2px 2px 125px;
+}
+.forecast-card {
+  border: 2px solid #c047d1;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 640;
+  margin: 13px 0px 0px 0px;
+}
+.forecast-image {
+  width: 100px;
+}
+.card-body {
+  padding: 1px 0px 13px 0px;
+}
